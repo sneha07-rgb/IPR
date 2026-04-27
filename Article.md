@@ -1,4 +1,4 @@
-hallenges of Intellectual Property Rights in the Digital Economy
+Challenges of Intellectual Property Rights in the Digital Economy
 Introduction
 
 The rapid growth of the digital economy has transformed the way information, products, and services are created, distributed, and consumed. From software development and digital content creation to e-commerce and artificial intelligence, innovation is now largely driven by digital platforms. In this evolving landscape, Intellectual Property Rights (IPR) play a crucial role in protecting the rights of creators and encouraging innovation. However, the digital environment also presents unique challenges that make the enforcement and management of IPR increasingly complex.
@@ -51,4 +51,4 @@ Platform Accountability: Clear regulations should define the responsibilities of
 Flexible Legal Frameworks: Laws must evolve with technological advancements to address emerging issues like AI-generated content and digital assets.
 Conclusion
 
-The digital economy has opened new avenues for creativity and innovation, but it has also introduced complex challenges for the protection of Intellectual Property Rights. Issues such as piracy, jurisdictional conflicts, and technological disruptions require innovative and adaptive solutions. A balanced approach that protects creators while promoting accessibility and innovation is essential for the sustainable growth of the digital economy. As technology continues to evolve, so must the frameworks that govern intellectual property, ensuring that they remain relevant and effective in the digital age.
+The digital economy has opened new avenues for creativity and innovation, but it has also introduced complex challenges for the protection of Intellectual Property Rights. Issues such as piracy, jurisdictional conflicts, and technological disruptions require innovative and adaptive solutions. A balanced approach that protects creators while promoting accessibility and innovation is essential for the sustainable growth of the digital economy. As technology continues to evolve, so must the frameworks that govern intellectual property, ensuring that they remain relevant and effective in the digital age
